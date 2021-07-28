@@ -1,0 +1,4 @@
+module CLegacySqlite [system] {
+    umbrella header "includeSQL.h"
+    export *
+}

@@ -1,0 +1,4 @@
+module CSqliteCURL [system] {
+    umbrella header "include.h"
+    export *
+}

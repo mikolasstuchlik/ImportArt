@@ -1,0 +1,4 @@
+module CLegacyCURL [system] {
+    umbrella header "includeCURL.h"
+    export *
+}
